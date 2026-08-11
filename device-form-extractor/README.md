@@ -1,5 +1,3 @@
--- active enve device-form-extractor\venv\Scripts\Activate.ps1
--- streamlit run device-form-extractor\app.py```markdown
 # 📋 Mobile Device Acceptance Form Extractor
 
 A local, offline tool that extracts data from scanned "Mobile Device Acceptance Form" images and compiles it into an Excel spreadsheet — using a local vision AI model (no cloud API, no cost, no rate limits).
